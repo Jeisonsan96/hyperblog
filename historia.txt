@@ -6,8 +6,11 @@ NAcio en colombia
 
 Experimento 1
 
+<<<<<<< HEAD
 Experimento 2
 
+=======
+>>>>>>> 7361510 (Exp 1)
 Master 1
 
 Master 2
